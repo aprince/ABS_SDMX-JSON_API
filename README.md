@@ -1,4 +1,4 @@
-# A Basic Demo of Tableau SDMX-JSON Web Data Connector Using ABS Data
+# A Basic Demo of the Tableau Web Data Connector with an SDMX-JSON API Using ABS Data
 
 SDMX-JSON WDC Example
 ---------------
