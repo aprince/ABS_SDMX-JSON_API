@@ -6,7 +6,7 @@ A very basic example of using Tableau's WDC to connect to the Australian Bureau 
 
 References
 ---------------
-http://www.abs.gov.au/websitedbs/D3310114.nsf/home/ABSstat+User+Assistance+Material
+http://www.abs.gov.au/websitedbs/D3310114.nsf/home/ABSstat+User+Assistance+Material  
 http://www.tableau.com/  
-https://github.com/tableau/webdataconnector
-https://sdmx.org/ 
+https://github.com/tableau/webdataconnector  
+https://sdmx.org/   
